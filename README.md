@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif"/>
